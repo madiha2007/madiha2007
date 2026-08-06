@@ -1,0 +1,34 @@
+<svg width="380" height="150" viewBox="0 0 380 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F2FF"/>
+      <stop offset="100%" stop-color="#F1E4FF"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#C4A6F5" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect x="6" y="6" width="368" height="138" rx="22" fill="url(#bg)" stroke="#D9BBFF" stroke-width="2" filter="url(#soft)"/>
+
+  <!-- sparkle decorations -->
+  <g transform="translate(348,26)" opacity="0.8"><path d="M0 -10.0 C 1.2 -2.0, 2.0 -1.2, 10.0 0 C 2.0 1.2, 1.2 2.0, 0 10.0 C -1.2 2.0, -2.0 1.2, -10.0 0 C -2.0 -1.2, -1.2 -2.0, 0 -10.0 Z" fill="#C58AFF"/></g>
+  <g transform="translate(360,44)" opacity="0.6"><path d="M0 -5.5 C 0.66 -1.1, 1.1 -0.66, 5.5 0 C 1.1 0.66, 0.66 1.1, 0 5.5 C -0.66 1.1, -1.1 0.66, -5.5 0 C -1.1 -0.66, -0.66 -1.1, 0 -5.5 Z" fill="#E0AFFF"/></g>
+  <g transform="translate(24,132)" opacity="0.55"><path d="M0 -6.0 C 0.72 -1.2, 1.2 -0.72, 6.0 0 C 1.2 0.72, 0.72 1.2, 0 6.0 C -0.72 1.2, -1.2 0.72, -6.0 0 C -1.2 -0.72, -0.72 -1.2, 0 -6.0 Z" fill="#D9BBFF"/></g>
+
+  <!-- folder icon -->
+  <g transform="translate(26,24)">
+    <path d="M0 4 C0 1.8 1.8 0 4 0 H12 L16 5 H30 C32.2 5 34 6.8 34 9 V22 C34 24.2 32.2 26 30 26 H4 C1.8 26 0 24.2 0 22 Z"
+          fill="#B57BFF" opacity="0.9"/>
+  </g>
+
+  <text x="70" y="44" font-family="Trebuchet MS, Verdana, sans-serif" font-size="19" font-weight="bold" fill="#6B21A8">wdig-cg</text>
+
+  
+
+  <circle cx="30" cy="124" r="6" fill="#3178C6"/>
+  <text x="42" y="128" font-family="Trebuchet MS, Verdana, sans-serif" font-size="13" fill="#5B21B6">TypeScript</text>
+
+  <polygon points="318.0,113.0 316.0,118.3 310.4,118.5 314.8,122.0 313.3,127.5 318.0,124.4 322.7,127.5 321.2,122.0 325.6,118.5 320.0,118.3" fill="#F5B301"/>
+  <text x="332" y="128" font-family="Trebuchet MS, Verdana, sans-serif" font-size="13" fill="#5B21B6">1</text>
+</svg>
