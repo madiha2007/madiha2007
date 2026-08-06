@@ -32,18 +32,13 @@
 
 ### 📌 Pinned Repositories
 
-<!--
-  GitHub doesn't let a README pull pinned repos automatically (no public API for pins).
-  Replace repo1/repo2/repo3/repo4 below with your actual pinned repo names.
--->
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=repo1&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=repo2&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=Daily-Planner&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=ott_website&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=repo3&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=repo4&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=wdig-cg&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=dua_app&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
 
 <br/><br/>
 
