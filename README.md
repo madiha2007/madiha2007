@@ -24,7 +24,7 @@
   git, github, docker, kubernetes, aws, azure, gcp, figma, postman, mysql, postgres,
   mongodb, redis, firebase, vscode, linux, bash, tailwind, graphql
 -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,java,cpp,git,github,docker,figma,mysql,mongodb,vscode,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,java,c,cpp,git,github,docker,figma,mysql,mongodb,vscode,linux&theme=light" />
 
 <br/><br/>
 
