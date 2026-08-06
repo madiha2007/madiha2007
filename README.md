@@ -29,10 +29,6 @@
 <br/><br/>
 
 <!-- ===== PINNED REPOS ===== -->
-
-### 📌 Pinned Repositories
-
-<!-- ===== PINNED REPOS ===== -->
 <h3>📌 Pinned Repositories</h3>
 
 <p align="center">
