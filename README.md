@@ -13,6 +13,7 @@
 <br/><br/>
 
 <!-- ===== TOOLS / LANGUAGES I KNOW ===== -->
+
 ### 🛠️ Languages & Tools
 
 <!--
@@ -28,19 +29,26 @@
 <br/><br/>
 
 <!-- ===== PINNED REPOS ===== -->
+
 ### 📌 Pinned Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=Daily-Planner&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=ott_website&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<!-- ===== PINNED REPOS ===== -->
+<h3>📌 Pinned Repositories</h3>
 
-<br/>
+<p align="center">
+  <img src="./svg/Daily-Planner.svg" width="380"/>
+  <img src="./svg/ott_website.svg" width="380"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=wdig-cg&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=dua_app&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
+<p align="center">
+  <img src="./svg/wdig-cg.svg" width="380"/>
+  <img src="./svg/dua_app.svg" width="380"/>
+</p>
 
 <br/><br/>
 
 <!-- ===== CONTRIBUTIONS / STREAK / COMMITS ===== -->
+
 ### 🔥 Contributions & Streaks
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A" height="180"/>
