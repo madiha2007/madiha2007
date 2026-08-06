@@ -12,14 +12,29 @@
 
 <br/><br/>
 
+<!-- ===== TOOLS / LANGUAGES I KNOW ===== -->
+
+### 🛠️ Languages & Tools
+
+<!--
+  This row uses skillicons.dev — replace the "i=" list below with whatever you actually use.
+  Full list of supported icon codes: https://skillicons.dev
+  Example codes: js, ts, python, java, cpp, html, css, react, nextjs, vue, angular,
+  nodejs, express, django, flask, spring, dotnet, php, laravel, swift, kotlin, dart, flutter,
+  git, github, docker, kubernetes, aws, azure, gcp, figma, postman, mysql, postgres,
+  mongodb, redis, firebase, vscode, linux, bash, tailwind, graphql
+-->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,java,cpp,git,github,docker,figma,mysql,mongodb,vscode,linux&theme=light" />
+
+<br/><br/>
+
 <!-- ===== PINNED REPOS ===== -->
 
 ### 📌 Pinned Repositories
 
 <!--
   GitHub doesn't let a README pull pinned repos automatically (no public API for pins).
-  This uses "pin cards" that render your real pinned repos — but you must list the
-  repo names yourself below. Replace repo1/repo2/repo3/repo4 with your actual pinned repo names.
+  Replace repo1/repo2/repo3/repo4 below with your actual pinned repo names.
 -->
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=repo1&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
@@ -36,7 +51,7 @@
 
 ### 🔥 Contributions & Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A" height="180"/>
 
 <br/><br/>
 
