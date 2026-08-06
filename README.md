@@ -36,11 +36,11 @@
 
 ### 🔥 Contributions & Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=light&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
 
 <br/><br/>
 
 <!-- ===== CONTRIBUTION ACTIVITY GRAPH ===== -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=react-light&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF" width="90%"/>
 
 </div>
