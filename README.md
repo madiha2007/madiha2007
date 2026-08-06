@@ -13,7 +13,6 @@
 <br/><br/>
 
 <!-- ===== TOOLS / LANGUAGES I KNOW ===== -->
-
 ### 🛠️ Languages & Tools
 
 <!--
@@ -29,7 +28,6 @@
 <br/><br/>
 
 <!-- ===== PINNED REPOS ===== -->
-
 ### 📌 Pinned Repositories
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=madiha2007&repo=Daily-Planner&theme=default&hide_border=true&bg_color=FFFFFF&title_color=7C3AED" height="150"/>
@@ -43,7 +41,6 @@
 <br/><br/>
 
 <!-- ===== CONTRIBUTIONS / STREAK / COMMITS ===== -->
-
 ### 🔥 Contributions & Streaks
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A" height="180"/>
