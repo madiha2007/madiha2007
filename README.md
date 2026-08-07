@@ -16,42 +16,56 @@
 
 ### 🛠️ Languages & Tools
 
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,nextjs,nginx,angular,php,html,css,bootstrap,tailwind,java,c,cpp,git,github,django,fastapi,flask,docker,figma,mysql,sqlite,mongodb,firebase,postgres,postman,render,vercel,vscode,androidstudio,linux&theme=light" />
+
+<br/><br/>
+
+<!-- ===== PINNED REPOS (clickable cards) ===== -->
+
+### 📌 Pinned Repositories
+
 <!--
-  This row uses skillicons.dev — replace the "i=" list below with whatever you actually use.
-  Full list of supported icon codes: https://skillicons.dev
-  Example codes: js, ts, python, java, cpp, html, css, react, nextjs, vue, angular,
-  nodejs, express, django, flask, spring, dotnet, php, laravel, swift, kotlin, dart, flutter,
-  git, github, docker, kubernetes, aws, azure, gcp, figma, postman, mysql, postgres,
-  mongodb, redis, firebase, vscode, linux, bash, tailwind, graphql
+  Each card links out on click. Right now they point to the GitHub repo itself —
+  swap the href for a live demo/website URL if one of these projects is deployed.
 -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,nextjs,nginx,angular,php,html,css,bootstrap,tailwind,java,c,cpp,git,github,django,fastapi,flask,docker,figma,mysql,sqlite,mongodb,firebase,postgress,postman,render,vercel,vscode,androidstudio,linux&theme=light" />
-
-<br/><br/>
-
-<!-- ===== PINNED REPOS ===== -->
-<h3>📌 Pinned Repositories</h3>
 
 <p align="center">
-  <img src="./svg/Daily-Planner.svg" width="380"/>
-  <img src="./svg/ott_website.svg" width="380"/>
+  <a href="https://github.com/madiha2007/Daily-Planner" target="_blank">
+    <img src="./svg/Daily-Planner.svg" width="380"/>
+  </a>
+  <a href="https://github.com/madiha2007/ott_website" target="_blank">
+    <img src="./svg/ott_website.svg" width="380"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="./svg/wdig-cg.svg" width="380"/>
-  <img src="./svg/dua_app.svg" width="380"/>
+  <a href="https://github.com/madiha2007/wdig-cg" target="_blank">
+    <img src="./svg/wdig-cg.svg" width="380"/>
+  </a>
+  <a href="https://github.com/madiha2007/dua_app" target="_blank">
+    <img src="./svg/dua_app.svg" width="380"/>
+  </a>
 </p>
 
 <br/><br/>
 
-<!-- ===== CONTRIBUTIONS / STREAK / COMMITS ===== -->
+<!-- ===== CONTRIBUTIONS / STREAK (auto light/dark) ===== -->
 
 ### 🔥 Contributions & Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madiha2007&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A" height="180"/>
+</picture>
 
 <br/><br/>
 
-<!-- ===== CONTRIBUTION ACTIVITY GRAPH ===== -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=minimal&hide_border=true&bg_color=FFFFFF&color=7C3AED&line=7C3AED&point=24292F" width="90%"/>
+<!-- ===== CONTRIBUTION ACTIVITY GRAPH (auto light/dark) ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=minimal&hide_border=true&bg_color=FFFFFF&color=7C3AED&line=7C3AED&point=24292F">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madiha2007&theme=minimal&hide_border=true&bg_color=FFFFFF&color=7C3AED&line=7C3AED&point=24292F" width="90%"/>
+</picture>
 
 </div>
