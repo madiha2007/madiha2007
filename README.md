@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/madiha2007/wdig-cg" target="_blank">
+  <a href="https://wdig-cg.vercel.app/" target="_blank">
     <img src="./svg/wdig-cg.svg" width="380"/>
   </a>
   <a href="https://github.com/madiha2007/dua_app" target="_blank">
